@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Don\'t Disturb</string>
+    <string name="action_settings">Settings</string>
+    <string name="Silent">Activate</string>
+    <string name="checkboxsms">Send SMS To Caller</string>
+    <string name="smstosend">I am busy,Call Later</string>
+    <string name="changetogeneral">Deactivate After <u>??</u> Miss Calls</string>
+    <string name="General">Deactivate</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="timetochange" >Deactivate in <u>??</u> Minutes</string>
+</resources>
